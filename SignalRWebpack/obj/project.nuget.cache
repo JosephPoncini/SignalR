@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GEPPMcxBsqDSL6Mn2jhFhtv/QWDDyBd6So68kzTEMKmjKtURSK/CnVAbWlcB4+dQEHMjHxzZ229OKr4yT0hi/A==",
+  "success": true,
+  "projectFilePath": "C:\\Desktop\\CodeStack Academy\\Level 3\\Full Stack - Shortalk\\SignalR\\SignalRWebpack\\SignalRWebpack.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jxpon\\.nuget\\packages\\microsoft.typescript.msbuild\\5.4.4\\microsoft.typescript.msbuild.5.4.4.nupkg.sha512"
+  ],
+  "logs": []
+}

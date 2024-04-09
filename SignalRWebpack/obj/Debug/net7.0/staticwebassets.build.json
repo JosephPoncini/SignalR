@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "Hash": "tkY/A/z6IOj79lraABXT3kjg5vr5tY4+SgMcSyjZ6pE=",
+  "Source": "SignalRWebpack",
+  "BasePath": "_content/SignalRWebpack",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "SignalRWebpack\\wwwroot",
+      "Source": "SignalRWebpack",
+      "ContentRoot": "C:\\Desktop\\CodeStack Academy\\Level 3\\Full Stack - Shortalk\\SignalR\\SignalRWebpack\\wwwroot\\",
+      "BasePath": "_content/SignalRWebpack",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Desktop\\CodeStack Academy\\Level 3\\Full Stack - Shortalk\\SignalR\\SignalRWebpack\\wwwroot\\css\\main.24623cf6de137a4d0415.css",
+      "SourceId": "SignalRWebpack",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Desktop\\CodeStack Academy\\Level 3\\Full Stack - Shortalk\\SignalR\\SignalRWebpack\\wwwroot\\",
+      "BasePath": "_content/SignalRWebpack",
+      "RelativePath": "css/main.24623cf6de137a4d0415.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\main.24623cf6de137a4d0415.css"
+    },
+    {
+      "Identity": "C:\\Desktop\\CodeStack Academy\\Level 3\\Full Stack - Shortalk\\SignalR\\SignalRWebpack\\wwwroot\\index.html",
+      "SourceId": "SignalRWebpack",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Desktop\\CodeStack Academy\\Level 3\\Full Stack - Shortalk\\SignalR\\SignalRWebpack\\wwwroot\\",
+      "BasePath": "_content/SignalRWebpack",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Desktop\\CodeStack Academy\\Level 3\\Full Stack - Shortalk\\SignalR\\SignalRWebpack\\wwwroot\\main.24623cf6de137a4d0415.js",
+      "SourceId": "SignalRWebpack",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Desktop\\CodeStack Academy\\Level 3\\Full Stack - Shortalk\\SignalR\\SignalRWebpack\\wwwroot\\",
+      "BasePath": "_content/SignalRWebpack",
+      "RelativePath": "main.24623cf6de137a4d0415.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\main.24623cf6de137a4d0415.js"
+    }
+  ]
+}

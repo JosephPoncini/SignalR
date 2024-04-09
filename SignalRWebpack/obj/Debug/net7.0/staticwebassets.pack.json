@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Desktop\\CodeStack Academy\\Level 3\\Full Stack - Shortalk\\SignalR\\SignalRWebpack\\wwwroot\\css\\main.24623cf6de137a4d0415.css",
+      "PackagePath": "staticwebassets\\css\\main.24623cf6de137a4d0415.css"
+    },
+    {
+      "Id": "C:\\Desktop\\CodeStack Academy\\Level 3\\Full Stack - Shortalk\\SignalR\\SignalRWebpack\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Desktop\\CodeStack Academy\\Level 3\\Full Stack - Shortalk\\SignalR\\SignalRWebpack\\wwwroot\\main.24623cf6de137a4d0415.js",
+      "PackagePath": "staticwebassets\\main.24623cf6de137a4d0415.js"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.SignalRWebpack.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.SignalRWebpack.props",
+      "PackagePath": "build\\SignalRWebpack.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.SignalRWebpack.props",
+      "PackagePath": "buildMultiTargeting\\SignalRWebpack.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.SignalRWebpack.props",
+      "PackagePath": "buildTransitive\\SignalRWebpack.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
